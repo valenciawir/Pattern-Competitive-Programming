@@ -1,4 +1,4 @@
-# Pattern-Competitive-Programming Problem
+# Pattern Competitive Programming Problem
 
 ## If the input number is Odd
 The output is a triangle pattern with "&"
