@@ -13,3 +13,7 @@ The output is a parallelogram pattern with combination of "*" and "#"
 Exampel Answer:
 
 ![image](https://user-images.githubusercontent.com/66791043/121366822-fb4ced00-c963-11eb-8c14-184efbf01cfd.png)
+
+## Constraint
+
+N<=1000
